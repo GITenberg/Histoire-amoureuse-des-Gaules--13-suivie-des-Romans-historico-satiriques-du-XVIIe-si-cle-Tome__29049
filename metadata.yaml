@@ -37,6 +37,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33531
     wikipedia: http://en.wikipedia.org/wiki/Roger_de_Rabutin,_Comte_de_Bussy
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29049#Histoire-amoureuse-des-Gaules--13-suivie-des-Romans-historico-satiriques-du-XVIIe-si-cle-Tome_
 gutenberg_bookshelf: FR Séduction et libertinage
 gutenberg_issued: '2009-06-06'
 gutenberg_type: Text
